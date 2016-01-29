@@ -8,6 +8,8 @@
 ## Videos
 
 1. https://www.youtube.com/watch?v=LBPyH2UNoLA IBM MobileFirst Platform
+2. https://www.youtube.com/watch?v=uQumto0yM04 What is the IBM MobileFirst Platform?
+3. https://www.youtube.com/watch?v=QmbMeJfOZaQ Phil Buckellew at Mobile World Congress 2015
 
 ##Bluemix Mobile Services
 1. https://console.ng.bluemix.net/catalog/images/ibm-mobilefirst-starter/ https://www.ng.bluemix.net/docs/containers/container_index.html
