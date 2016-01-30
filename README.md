@@ -12,7 +12,8 @@
 3. https://www.youtube.com/watch?v=QmbMeJfOZaQ Phil Buckellew at Mobile World Congress 2015
 
 ##Bluemix Mobile Services
-1. https://console.ng.bluemix.net/catalog/images/ibm-mobilefirst-starter/ https://www.ng.bluemix.net/docs/containers/container_index.html
+1. https://console.ng.bluemix.net/catalog/starters/mobilefirst-services-starter/ MobileFirst Services Starter
+2. https://console.ng.bluemix.net/catalog/images/ibm-mobilefirst-starter/ https://www.ng.bluemix.net/docs/containers/container_index.html
 2. https://console.ng.bluemix.net/catalog/services/ibm-push-notifications/ IBM Push Notification
 3. https://console.ng.bluemix.net/catalog/services/mobile-application-content-manager/   Mobile Application Content Manager
 4. https://console.ng.bluemix.net/catalog/services/mobile-client-access/  Mobile Client Access
